@@ -1,6 +1,4 @@
-# API Rest em NodeJS
-
-Resolução do desáfio referente à https://github.com/Rocketseat/bootcamp-gostack-desafio-01
+# REST API em NodeJS
 
 ## Rotas
 
